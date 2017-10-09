@@ -1,0 +1,322 @@
+Experimental Recipes
+
+link: https://7daystodie.com/forums/showthread.php?23757-Experimental-Recipes
+Gallery: http://ru.7daystodie.wikia.com/wiki/'''Галерея'''
+
+If you finde a bug.
+If you want install mod on your server.
+Contact with me: Sergant1000@mail.ru
+
+If yo want to promote my project please donate: 
+QIWI: +79527902711
+PayPal: Sergant1000@mail.ru
+
+
+How to install a mod?
+1) Download the archive Fashion (the link above).
+2) Copy the contents of the archive in the game directory, while agreeing on a replacement.
+3) copy the file "items.xml" from "addons\eng" to the "7 Days To Die\Data\Config" directory, while agreeing on a replacement.
+4) Run the game
+
+How to install the patch?
+1) Download the archive patch (the link above).
+2) Copy the contents of the archive in the game directory, while agreeing on a replacement.
+3) copy the file from "addons\eng" to the "7 Days To Die\Data\Config" directory, while agreeing on a replacement.
+4) Run the game
+
+How do I delete mod?
+Method №1) Go to the game options to the steam and click on "recalculate the cache."
+
+Description:
+This mod add in game many items\blocks\recipes and new capabilities like a fishing, takeble grass and some others blocks. It makes the game look like game.
+
+About 700 new items. 
+More than 500 new units. 
+The new zombies and beasts. 
+More than 500 new recipes.
+
+
+possibilities 
+Extended range of blocks for construction. 
+Agriculture and Livestock. 
+Extended cooking. 
+Maude "set meals". 
+The ability to recruit from gasoline refueling. 
+The need to wash. 
+Fishing. 
+Pick-objects. 
+The ability to teach others. 
+Tips Survivors (from 7DaysFan). 
+Various ore. 
+Materials and Advanced Materials ranking system. 
+different-metal armor, and tools. 
+New types of buildings and cities, fashion "Prefabs-Compo-Pack" (from "Magoli"). 
+New skills. 
+Changed interface.
+
+New ItemsПравить
+
+weapon 
+Added various weapons such as melee weapons, crossbows, pistols, submachine guns, shotguns, machine guns, rifles, machine guns, grenade launchers, Rocket Launcher, Flamethrower, Grenades. 
+Different types of ammunition: conventional, incendiary, armor-piercing. 
+The ability to wear a muffler for "Beretta_92", "Jericho 941" and "HK USP Compact". 
+The ability to wear sight on Remington_700, "Magnum", "Injector_105". 
+The ability to attach a flashlight to arms. 
+Added system repair weapons, parts of which it is composed. 
+All knives added 2nd strike that deals 50% more damage, but with a long cooldown and dual endurance. 
+Weapons divided into classes: 
+Homemade - made from the material at hand and can not be repaired. 
+The old - rusty, shabby, with poor Har-kami, can not be disassembled, but can be repaired. (not ready) 
+Factory - A rare, can be disassembled and repaired.
+
+
+Armor 
+Added shirts dzhinsovki, pants, shirts, hats, bandanas, different colors. 
+The ability to make metal armor of copper, iron, brass, steel, titanium. 
+to the helmet of iron and leather, you can add a flashlight. 
+Repair divided on metals, metal armor metal repaired only of its kind.
+
+
+Book 
+The range of books, as well as giving them recipes. 
+Some metals are extracted by injection. For example, to get a bronze or steel, will have to find the book "Metal Alloys Book". 
+The game now has an opportunity not only to learn a new recipe from the book, but this recipe will teach another player. For this you need a lot of paper and objects to create that you want to teach.
+
+
+Tools 
+The ability to make tools out of stone, copper, bronze, iron, brass, steel, titanium. Added Stone Hammer, it postponed the possibility of building and upgrading, stone axes. 
+added plastic bags for carrying meat. Putting the meat in it, you reduce the radius of the smell. 
+The ability to draw water not only a tin or glass jar, but with a plastic bottle and a bowl of clay, as well as "jar. 
+dummy canister can use it to collect gasoline at a gas station. To do this, go to the column, and then click RMB "Canister" will be "a can of gasoline." 
+Repair divided on metals, are now subject only to its being repaired with metal type. 
+Added "LockPick" to open safes or chests of the enemy. 
+Boer and chainsaw broken, repaired oil set for repair of weapons. Also, the drill can be repaired, finding "AugerDrill", and saw to fix "ChainSaws".
+
+
+Admin set 
+For the administrator added: weapons administrator, two tablets of the administrator and a full set of clothing administrator.
+
+Other items 
+Tons of new items, food, medication. 
+Old kit is divided into 3 new kits, each better than before going. 
+Bandages now need to be boiled. 
+Food now restores health is not immediately but gradually.
+
+==New blocks== (temporarily unavailable) 
+added new blocks: 
+"HotelDresser" - as the "nightstand" 
+"Spotlight" - floodlight for illuminating areas.
+
+
+Pitfalls 
+"Trap Hay", "Trap Dirt", "Trap Grass" - disappears when the player stepping on them. Very convenient to make the hidden traps. 
+"Iron Spikes" - An improved version of the wooden stakes of metal. 
+"Acid" - behaves as a block of water, but deals damage. 
+"Fire Trap" - sets fire to the enemy 
+"Shock Trap" - stop the enemy for a while. 
+"Animal Gore" - during the installation of the heat zone for which there is a lot of zombies. 
+"Hubcap_Mine_Adv" - higher than the damage from the "Hubcap Mine".
+
+
+The new building blocks.
+
+
+Added destroyed model containers. 
+The new block machine: "Water_Condenser" Used to water shortage conditions thereof. 
+Learn to do a water mill. 
+1) To work required to insert (hammer) in the bottom 2 "Lead Car Battery", that's enough for 2 hours. 
+2) To create a collector is required to improve it (hammer) with the help of 20-"Forged_Copper". 
+3) After its creation need to insert (hammer) in a 15 "Glass Jar".
+
+
+other' 
+Named chests:
+
+
+Changed number of cells in the containers. "fridgeTop" 7x4, "fridgeBottom" 6x4, "fridge" 6x7, 8x5 Cases, "secureStorageChest" 10x2, 8x5 boxes.
+
+
+Shelves got class containers. now they can oblutat.
+
+BuffsПравить
+
+In the "Food Poisoning" is now lost 0.05ed. health. Operating gaming day. 
+Action "Bleeding" is constant, but the loss of health 0,5ed.\s. 
+"Sprained Leg" duration changed from 1 to 1 real game of the day. 
+"Splint" now held 6 hours of gaming, but not forever. 
+"Painkiller" is working on another + 40hp and -1hp immediately. sec. for 40 seconds. 
+"Injector 88 RED", the action + 1hp sec. within 30 seconds. 
+"Injector 88 BLUE". Restores 10vyn. immediately and 120vyn. for 60 seconds. 
+"Contagion" changed: 
+1st stage: 0.5 seconds for endurance. duration of 10 hours of game. 
+2nd stage: 0.1 seconds for health., -1 for endurance seconds. and slowing 25%, duration of 8 hours of game. 
+3rd stage: 0.5 seconds for health., -2 stamina for seconds. and delay by 50%, the duration of the game 6 hours.
+4th stage: the death.
+New NPCsПравить
+
+Animal 
+deer, pigs and rabbits are divided into male and female. Men particularly aggressive. The female gives young. 
+Bear Added - runs away at the sight of the player
+
+Zombie 
+"Mutated Zombe" - runs at you as soon as you see it. Break the doors. It has 100hp, the angle of view of 180 
+"Hornet Queen" - has 100hp.
+
+
+Zombie Bosses 
+"Bag of Bones" - Decomposed Zombie has 1500hp. 
+"Cerberus" - the dog zombies faster than usual and has 500 hp. 
+"FleshTonn" - zombies Fat Man 3000hp. 
+"Bubonic Doctor" - a zombie nurse has a 900 x 10% to break your legs and 90% infect you. 
+"Witch" - zombie woman has 700hp, blind, runs fast. 
+"Porcupine" - an avid hunter has 200hp, shooting a crossbow. (from "Cores1") 
+"Controller" - zombies with psychic mutation has 100hp, weak attack, but could use a psychic blow. (from "Cores1") 
+"Pyroplasm" - charred zombies has 200hp, chemical spits fire. (from "Cores1") 
+"Succubus" - a 200hp weak attack, but its main trump card is the ability to enchant you with enzymes. (from "Cores1") 
+"Guardian" - a 200hp was once a bodyguard or a guard, knows how to shoot a gun. (from "Cores1") 
+"OldSwat" - A former soldier has 200hp, even after death will not part with his machine gun. It is dangerous, no one has stood the queue of a machine gun. (From "Cores1")
+
+
+Private loot from bosses Zombie
+
+
+Other 
+If you can not see the zombies you can rob him. 
+Angle zombies put up 160 degrees.
+
+New Recipes. Править
+
+Distillation arrows and bolts into each other. 
+Auxiliary recipes and recipe variations.
+Advanced building. Править
+
+The game has a range of building blocks: 
+"Wood Frame" 
+"Scrap Iron Frame" 
+"Cobblestone" 
+"Concrete Form" 
+"Reinforced Concrete" 
+All the line expanded to 20 blocks. 
+The new line blocks "Iron Frame", includes: "Iron_Frame", "Iron_Plate_Frame". 
+The new line blocks "Armor Glass", includes: "Armor Glass", "Armor Glass Center". 
+The new system of concrete blocks, for this you will need to create a form and fill it mixed concrete. 
+for mixed concrete requires a clay bowl. 
+"Glue" Added recipes fittings.
+Extended cooking. Править
+
+On Any plate can now be prepared on fire. 
+Many recipes were variations. 
+now used for cooking: Stick, pots, pans, grill grate, Beaker, Chemist kit, bucket, bucket of water. 
+Recipes divided between: "campfire", "Oven" and "wallOven".
+Expanded economy. Править
+
+You can grow: Aloe, Jukka, chrysanthemum, hops, cucumbers, tomatoes, beets, grapes, carrots, strawberries, apples and wheat. 
+Coop - creates "Bird's Nest" (Nest), is taken in hand "cornMeal" (corn flour) and paint on the "Bird's Nest" and an hour slot is updated. We get the egg and\or feathers. 
+Bee - creates a "hive" (beehive), is taken in hand "Stone Hammer" or "Hammer" and 10 chrysanthemums in stock, RMB on the "hive" and after 240min. hive is updated. We get honey. 
+Breeding rabbits and pigs. Get "pig" or "Rabbit_Baby" is set in a convenient place for you, but above ground level. Just can not work inside buildings. created "Feedstuff", is taken in hand and paint. 
+The ability to collect birch sap. Find a birch, you should be in the 5 empty cans. taken "Stone Hammer" in his hand, and RMB. Wait for a while, then you can collect the juice.
+WashПравить
+
+Now the player will have to wash, as it is now with time it becomes dirty. There are 4 stages: 
+Step 1 you "clean" and it lasts for 12 hours of gaming 
+Step 2. You "smacks" chuyat you at a distance of 1 unit. it takes 24 hours of game 
+Step 3. You "dirty", you chuyat at a distance of 10 blocks. it takes 24 hours of game 
+Step 4: You are "dirty as a pig," you chuyat at a distance of 20 blocks. This lasts until you wash your. 
+To wash, use: 
+"Cloth Fragment" (cloth). You laundered only on the first stage. Match to any water, toilet, sink, click RMB and we are again clean. 
+"Napkin" (cloth). You laundered only on the first and second stages. take in hand and RMB. 
+Soup (soap). Launderers you from any stage. Take the soap is suitable for any water, toilet, sink, click RMB and we are again clean.
+FishingПравить
+
+For her need to make bait Fishing Rod
+
+Weights can be made from BulletTip.png x5 or ScrapLead.png x1 
+After use bait Bail (fall when digging the ground), or use MoldyBread.png, and impose it on the Fishing Rod will Fishing Rod With Bail
+
+approach the water and press the RMB. After that, put the bag on the ground and collect the fish. There are 3 types of fish, each fish can be roasted on a stick or in a pan to cook soup.
+New skillsПравить
+
+Active Skills: "Middle Armor", "Knives", "Axes", "Submachine Guns", "Assault Rifles", "Sniper Rifles", "Machine Guns", "Rocket Launchers", "Granade Launchers", 
+assembly Skills: "Homemade Gun Smithing",
+Other options Править
+The paper is now possible to produce not only books and sawdust.
+Redistribute drop items.
+Added getting plastic from oil. Also, plastic may be prepared plastic bottles and plastic bags.
+Standard arsenal of primary materials expanded from 6 to 15 species. Redistribute the secondary materials. Rebalancing.
+Rewritten loss of materials for firearms, edged weapons and tools.
+Mines established a separate article, now they can shoot. But you can not pick it up.
+"Tungsten" is replaced by "Titanium".
+Added weapons with their own models, animations and enclosure for the flashlight.
+Added point damage: h2-8 in the head; x1 into the body, in the arm or leg X0.5.
+Added "4x-Engine" engine for minibike.
+Many new buildings and various cities of the fashion Prefabs-Compo-Pack (from "Magoli").
+Change settings minibike.
+Added loss of skin, tissue, metal and planks: Leather sofas and bed sections.
+For each biome has its own land, that is, after a time becomes a dirt ground of the biome in which excavated.
+Added the ability to repair the drill and chainsaw handle and the engine.
+Bactericidal bandage and first aid kit, treated for Critical bleeding.
+Coal added the ability to shoot poison.
+Changed generation ores, ore is now not only in the caves and in the formations.
+Clean water can not only boiled but special pills "AquaBriz" and "Aquamira".
+When skidyvanii box of supplies, the map shows the box itself, a yellow star.
+Mushrooms are added to the forest.
+Added hints: "Memoirs of a Survivor," "Tips Survivor" and "Recipes Survivor." It contains useful tips and recipes on the game. (From "7DaysFan").
+Added Poisonous mushrooms and berries.
+All weapons are renamed to names of real samples.
+Rebalance: weapons, armor, food.
+Recipes redistributed by category.
+Expanded materials 
+added: Plastic, sulfur, zinc, bronze, tin, copper, steel and titanium.
+Melting glass is changed, now we are smelted whole glass, and not cracked.
+
+powder of potassium nitrate is added to the loot of the cabinets with food.
+You can select by pressing the action: "TNT", "Large TV", "Office Chair", "cutLog", "cobweb", "tire", "mattressHalf" and "schoolDesk", all kinds of herbs (no longer beat the object to collect).
+The possibility of obtaining cotton oil or animal fat.
+New bottles of wine. For wine and just water.
+Added Binoculars.
+Luke and steel door installed as anywhere.
+Added radiation and methods for treatment of it.
+Added ability to get water, clay bowl and boil it in a pot
+
+
+
+F.A.Q. ? 
+Q: How do I get steel\Brass? How to steel\brass instruments? 
+A: To smelt steel\Brass to do: "Steel_Blank"\"Brass_Blank" be in the resources it all in the oven and ready.
+
+In: "Steel_Blank"\"Brass_Blank". Where to find them? 
+A: You need to read the book "Metal Alloys Book".
+
+
+Q: Do I have to start a new game? 
+A: The new game is not required, just some of the features of the type of ores and setting blocks will not work until you leave in the not yet generated biome.
+
+
+Q: Why after a reload animation I can not shoot? 
+A: The mod weapons have changed cooldown. Since the animation recharge and recharge itself are not connected with each other, it turns out that the animation could finish, but she has no cooldown.
+
+
+Q: After installing the mod at the entrance to the game, a black screen and not some deystviy.Ne prompt what to do? 
+A: Start with no anti-cheat.
+
+
+How to remove the ground after a zombie? 
+A: Open the file "entityclasses.xml" and remove the lines:  <property name = "CorpseBlock" value = "GoreBlock1Prefab"/>  <property name = "CorpseBlockChance" value = "1"/> from block  <entity_class name = "zombie04">
+
+
+Q: Why grenades\"C-4"\hammer not explode? 
+A: Before you throw on the paint, you should click to activate PCM.
+
+
+Special THANX!
+Dominix
+Pacco
+Magoli
+7DaysFan
+Бибурат
+Matite
+h0tr0d
+Valmar
+rek0204
+
+And all who helping project.

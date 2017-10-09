@@ -1,0 +1,92 @@
+<mod>
+	<info>
+		<author>Sergant1000</author>
+		<name>Experimental Recipes</name>
+		<description>
+Mod for: improved gameplay, expanding the range of units, items, zombies,
+traps, addition and expansion variations of recipes, weapons, non-standard systems, etc.
+This mode brings the game to an alpha Bole less playable form. Mod is calculated on a random
+map and setting up the loot 100%.
+
+Short description
+About 700 new items.
+More than 500 new units. (Temporarily unavailable)
+New zombies and beasts.
+Over 500 new recipes.
+
+Capabilities
+Extended range for the building blocks. (Temporarily unavailable)
+Agriculture and Livestock.
+Extended cooking.
+The need to wash.
+Fishing.
+Pick-objects.
+The ability to teach others.
+Tips Survivors (from 7DaysFan). (Temporarily unavailable)
+Various ore.
+Advanced materials and material system of ranking.
+Miscellaneous-metal armor and tools.
+Maude "Prefabs-Compo-Pack", new types of buildings and cities in a random map (from "Magoli").
+Maude "Mavezgane", adds about 65 new buildings on the map "Navezgane" (from "kaneta1").
+New skills.
+Changed interface.
+And much more...
+
+
+Мод для: улучшения геймплея, расширение ассортимента блоков, предметов, зомби, 
+ловушек, дополнение и расширение вариаций рецептов, оружия, не стандартных систем и т.д.
+Данный мод приводит альфа игру к боле менее играбельному виду. Мод рассчитан на рандомную 
+карту и настройку лута 100%.
+
+Краткое описание
+
+Около 700 новых предметов. 
+Более 500 новых блоков. (временно отсутствуют)
+Новых зомби и звери. 
+Свыше 500 новых рецептов.
+
+
+Возможности 
+Расширенный ассортимент блоков для строительства. (временно отсутствуют)
+Сельское хозяйство и Животноводство. 
+Расширенная готовка. 
+Необходимость мыться. 
+Рыбалка. 
+Подбираемые объекты. 
+Возможность учить других. 
+Подсказки Выживших (от 7DaysFan). (временно отсутствуют)
+Различная руда. 
+Расширенные материалы и система ранжирования материалов. 
+Разно-металлическая броня и инструменты. 
+Мод "Prefabs-Compo-Pack", новые виды Зданий и Городов в рандомной карте (от "Magoli"). 
+Мод "Mavezgane", Добавляет около 65 новых построек на карте "Navezgane" (от "kaneta1"). 
+Новые умения. 
+Изменен интерфейс.
+И много другое...
+		</description>
+		<mod_version>XX.XX</mod_version>
+		<game_version>alpha 15.1</game_version>
+		<launcher_version>0.7.0</launcher_version>
+	</info>
+	
+	<config_mods>
+		<!--<import file="Configs\items.xml" />
+		<import file="Configs\archetypes.xml" />
+		<import file="Configs\biomes.xml" />
+		<import file="Configs\blocks.xml" />
+		<import file="Configs\buffs.xml" />
+		<import file="Configs\entityclasses.xml" />
+		<import file="Configs\entitygroups.xml" />
+		<import file="Configs\loot.xml" />
+		<import file="Configs\materials.xml" />
+		<import file="Configs\progression.xml" />
+		<import file="Configs\quests.xml" />
+		<import file="Configs\recipes.xml" />
+		<import file="Configs\rwgmixer.xml" />
+		<import file="Configs\spawning.xml" />
+		<import file="Configs\traders.xml" />
+		<import file="Configs\xui.xml" />
+		<import file="Configs\XUi\controls.xml" />
+		<import file="Configs\XUi\windows.xml" />-->
+	</config_mods>
+</mod>
